@@ -9,9 +9,9 @@ Use WASD to move capsule
 
 collide with cube to collect powerup
 
-fully finished project found in main
+fully finished project found in main branch
 
-anything that was not fully completed can be found in the "Progress" branch
+("Progress" branch matches main branch as Question 4's implementation did not have time to be attempted)
 
 build held in the "Executable" folder
 
